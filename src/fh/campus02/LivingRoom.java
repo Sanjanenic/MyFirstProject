@@ -12,6 +12,11 @@ public class LivingRoom {
         System.out.println (hasTv);
         System.out.println (hasCouch);
         System.out.println (windows);
+        /*System.out.println ("Meine Wohnzimmer hat " +squareMeters + "Quadratmeters.");
+        System.out.println ("Meine Wohnzimmer hat einen Ferhnseher:" + hasTV);
+         */
+
+
 
     }
 }
