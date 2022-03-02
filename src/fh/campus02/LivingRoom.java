@@ -1,4 +1,4 @@
-package com.company;
+package fh.campus02;
 
 public class LivingRoom {
 
